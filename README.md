@@ -7,7 +7,8 @@ Green Energy stock Analysis using VBA
 The main objective of this project is to explore the green energy stock's performance by analyzing financial data by using VBA code. We have the data of 12 stocks for the year 2017 and 2018. The original code for this analysis take more run time, so I have to refactor the code and increase the efficiency of the original code.
 
 # Results: 
-
+![VBA 2017 Screenshot](https://github.com/Gagan-hub/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![VBA 2017 Screenshot](https://github.com/Gagan-hub/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 
 
